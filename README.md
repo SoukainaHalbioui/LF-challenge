@@ -13,6 +13,7 @@ Things I would improve in my solution if I had more time would be the efficiency
 I used a matrix of size n * m (n and m being the lengths of the two strings being compared) for each word within the entry. This wouldn't be an issue for somewhat 
 short entries like the ones I used to test my solution, but it would for entries containing thousands of words as it would consume a significant amount of memory storage. 
 I would have tried to implement a solution that carries out the algorithm while only storing the last two columns that contains the answer for the distance.
+Also, and seeing as this is production code, I would set up logs for troubleshooting purposes.
 
 As to the UI, please find a file titled "Example_UI.jpg" (directly under SoukainaHalbioui/labforward-challenge) that shows my suggestion for a UI that exposes 
 this simple service.
