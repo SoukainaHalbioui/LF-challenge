@@ -4,7 +4,7 @@ Time spent: approximately 5 hours in total, excluding break times.
 
 Scope of the solution: implements the user story, takes into account the use of punctuation inside entries, handles empty or missing entries/keywords in the request.
 
-I used Maven as a build tool and Intellij as an IDE to build the project. When run locally, the endpoint URL is "http://localhost:8080/entry-analysis-frequency".
+I used Maven as a build tool and Intellij as an IDE to build the project. When run locally, the endpoint URL is "http://localhost:8080/entry-analysis/frequency".
 The request body object should contain two string attributes: "entry" and "word".
 The API endpoint would return a response that contains an integer representing the number of occurences of "word" in "entry", and a list 
 of strings that contains similar words.
