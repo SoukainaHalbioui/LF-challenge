@@ -15,7 +15,7 @@ short entries like the ones I used to test my solution, but it would for entries
 I would have tried to implement a solution that carries out the algorithm while only storing the last two columns that contains the answer for the distance.
 Also, and seeing as this is production code, I would set up logs for troubleshooting purposes.
 
-As to the UI, please find a file titled "Example_UI.jpg" (directly under SoukainaHalbioui/labforward-challenge) that shows my suggestion for a UI that exposes 
+As to the UI, please find a file titled "Example_UI.jpg" (directly under SoukainaHalbioui/LF-challenge) that shows my suggestion for a UI that exposes 
 this simple service.
 
 Looking forward to your feeback :)
